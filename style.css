@@ -1,0 +1,23 @@
+.card {
+
+
+    width: 600px;
+    height: 340px;
+    background-image: url("blue_abstract_background_310971.jpg");
+    background-size: cover;
+    border-radius: 40px;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    padding-top: 100px;
+    box-sizing: border-box;
+}
+.card-company{
+    text-align: center;
+    margin: 0;
+}
+.card-name {
+    text-align: center;
+margin: 0;
+}
+
+
